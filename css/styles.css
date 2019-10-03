@@ -2,23 +2,29 @@ html,
 body {
   width: 100%;
   min-height: 100vh;
-  padding: 0;
-  margin: 0;
+
   font-size: 1.1rem;
   font-family: Arial;
 }
 
 body {
-  margin: 2em 0;
+  margin: 2em 1em;
 }
 
-/*Homepage*/
+/* Homepage */
 h1 {
   text-align: center;
 }
 
-img {
+.cakeImage {
   width: 25%;
+  display: block;
+  margin: 0 auto 2em auto;
+}
+
+/* Contact */
+.mapImage {
+  width: 35%;
   display: block;
   margin: 0 auto 2em auto;
 }
