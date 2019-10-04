@@ -1,8 +1,6 @@
 html,
 body {
-  width: 100%;
   min-height: 100vh;
-
   font-size: 1.1rem;
   font-family: Arial;
 }
@@ -11,7 +9,6 @@ body {
   margin: 2em 1em;
 }
 
-/* Homepage */
 h1 {
   text-align: center;
 }
@@ -24,6 +21,13 @@ h1 {
 
 /* Contact */
 .mapImage {
+  width: 35%;
+  display: block;
+  margin: 0 auto 2em auto;
+}
+
+/* Sweets */
+.sweetsImage {
   width: 35%;
   display: block;
   margin: 0 auto 2em auto;
