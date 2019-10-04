@@ -32,3 +32,10 @@ h1 {
   display: block;
   margin: 0 auto 2em auto;
 }
+
+/* Cupcake */
+.cupcakeImage {
+  width: 20%;
+  display: block;
+  margin: 0 auto 2em auto;
+}
